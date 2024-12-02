@@ -6,7 +6,7 @@ Welcome to my **Advent of Code** challenge repository! This is my journey throug
 
 ## 🎯 Goal  
 - **1 Puzzle a Day**: Solve each daily challenge from [Advent of Code](https://adventofcode.com/).
-- **2 Languages**: Write solutions in **C** (for the raw, low-level grind) and **Java** (for the verbose elegance).
+- **2 Languages**: Write solutions in **C**  and **Java**
 - **Keep it Fun**: Share my progress, struggles, and triumphs. 
 
 ---
