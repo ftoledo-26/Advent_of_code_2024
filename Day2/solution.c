@@ -26,7 +26,7 @@ bool esSeguro(int niveles[], int n) {
 
 int main() {
 
-    FILE *archivo = fopen("datos.txt", "/Day2");
+    FILE *archivo = fopen64("/Day2/datos.txt","r");
     if (archivo == NULL) {
         printf("No se pudo abrir el archivo.\n");
         return 1;
